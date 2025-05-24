@@ -57,7 +57,7 @@ Objetivo: rendimiento, simplicidad y herramientas de uso real.
 
 ### 📫 Contacto
 
-- LinkedIn: [linkedin.com/in/tuusuario](https://es.linkedin.com/in/jes%C3%BAs-lebr%C3%B3n-carre%C3%B1o?trk=people_directory)  
+- LinkedIn: [Jesús Lebrón Carreño](https://es.linkedin.com/in/jes%C3%BAs-lebr%C3%B3n-carre%C3%B1o?trk=people_directory)  
 
 ---
 
