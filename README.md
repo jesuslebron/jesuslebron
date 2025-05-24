@@ -49,8 +49,8 @@ Me interesa la creación de herramientas propias y actualmente desarrollo una di
 ### 🚧 Proyecto actual
 
 🛠️ **Distribución Linux para Ciberseguridad (en desarrollo)**  
-Una distro basada en Debian, diseñada para analistas y profesionales de la seguridad digital.  
-Objetivo: rendimiento, simplicidad y herramientas de uso real.
+          -   Una distro basada en Debian, diseñada para analistas y profesionales de la seguridad digital.  
+          -   Objetivo: rendimiento, simplicidad y herramientas de uso real.
 
 ---
 
