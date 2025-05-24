@@ -12,10 +12,6 @@
   <a href="https://linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/></a>
 </p>
 
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/66499924/447246825-8b30722e-bc19-45f8-a4b3-de788f52c8d1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgwODk2OTgsIm5iZiI6MTc0ODA4OTM5OCwicGF0aCI6Ii82NjQ5OTkyNC80NDcyNDY4MjUtOGIzMDcyMmUtYmMxOS00NWY4LWE0YjMtZGU3ODhmNTJjOGQxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI0VDEyMjMxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM5MmE4MDcxZWI4NDA3YTA1ZWUyYTNjNDgwNzljNGRjMWE5MzYxMWJjNjMyMDY2NjU0ZmFjZjA4NGE0ZGQzMDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.aSish8eU3i9U3QShzp8Ve0dCV8Zw9EEamQ4FIS8S4_w" alt="Logo" width="100%">
-</p>
-
 ---
 
 ### 🧭 Sobre mí
@@ -23,6 +19,10 @@
 Apasionado por la ciberseguridad y la investigación digital. Me especializo en **auditorías manuales** y **OSINT**, con un enfoque práctico, ético y profesional.
 
 Me interesa la creación de herramientas propias y actualmente desarrollo una distribución Linux orientada a analistas de seguridad. Trabajo con mentalidad crítica, atención al detalle y enfoque constante en la mejora continua.
+
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/66499924/447246825-8b30722e-bc19-45f8-a4b3-de788f52c8d1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgwODk2OTgsIm5iZiI6MTc0ODA4OTM5OCwicGF0aCI6Ii82NjQ5OTkyNC80NDcyNDY4MjUtOGIzMDcyMmUtYmMxOS00NWY4LWE0YjMtZGU3ODhmNTJjOGQxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI0VDEyMjMxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM5MmE4MDcxZWI4NDA3YTA1ZWUyYTNjNDgwNzljNGRjMWE5MzYxMWJjNjMyMDY2NjU0ZmFjZjA4NGE0ZGQzMDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.aSish8eU3i9U3QShzp8Ve0dCV8Zw9EEamQ4FIS8S4_w" alt="Logo" width="30%">
+</p>
 
 ---
 
