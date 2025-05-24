@@ -1,15 +1,13 @@
 <!-- Banner (opcional: sube tu imagen o crea una en Canva) -->
 <p align="center">
-  <img src="https://i.imgur.com/yourbanner.png" alt="Cyber Banner" width="100%">
+  <img src="https://private-user-images.githubusercontent.com/66499924/447250143-c57b90b3-4ab2-49a6-9952-1df0ee85111d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgwOTE5MzcsIm5iZiI6MTc0ODA5MTYzNywicGF0aCI6Ii82NjQ5OTkyNC80NDcyNTAxNDMtYzU3YjkwYjMtNGFiMi00OWE2LTk5NTItMWRmMGVlODUxMTFkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI0VDEzMDAzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI3OTA5MDVkNDhmNWZmMWY4ZTI1MDQ1NDUwNGVjYWYwYzZhYmM0N2ZiNDY0MjdjNjY4MDUwYzY5OGFiYjMyMjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.hkB2GE-T-VcpfGQEKjsHyDUL15xax18MJHI4KGmk6Pk" alt="avatar" width="15%">
 </p>
 
 <h1 align="center">👋 Hola, soy Jesús Lebrón</h1>
 <h3 align="center">Profesional en Ciberseguridad | OSINT | Análisis Forense | Auditoría Manual</h3>
 
 <p align="center">
-  <a href="https://twitter.com/tuusuario"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/></a>
+  <a href="https://es.linkedin.com/in/jes%C3%BAs-lebr%C3%B3n-carre%C3%B1o?trk=people_directory"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/></a>
 </p>
 
 ---
@@ -59,7 +57,7 @@ Objetivo: rendimiento, simplicidad y herramientas de uso real.
 
 ### 📫 Contacto
 
-- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
+- LinkedIn: [linkedin.com/in/tuusuario](https://es.linkedin.com/in/jes%C3%BAs-lebr%C3%B3n-carre%C3%B1o?trk=people_directory)  
 
 ---
 
